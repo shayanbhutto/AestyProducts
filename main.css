@@ -1,0 +1,14 @@
+.logo{color: black;
+    font-family: cursive;
+    text-align: center;
+}
+.text{color: black;
+    font-family: cursive;
+    text-align: center;
+}
+.row{text-align: center;
+    height: 250;
+    width: 350;
+    padding: 10px;
+    border: 100px;
+}
